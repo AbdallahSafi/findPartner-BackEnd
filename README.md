@@ -1,13 +1,5 @@
 # findPartner
 
-## Table of Contents
-
-- [About the Project](#about-the-project)
-- [Wireframes](#Wireframes)
-- [User Stories](#User-Stories)
-- [ER diagram](#Domain-Modeling)
-- [License](#license)
-
 # About the Project
 
 finding team members for a specific project. The app will allow developers, writers, designers, and other freelancers and/or professionals to join the platform and participate in different projects to earn money.
@@ -27,17 +19,8 @@ To see more on the project requirements, click on [this.link](requirements.md).
 ![home01](/assets/wireframe/Signup02.png)
 ![home01](/assets/wireframe/login.png)
 
-# User Stories
-
-[Project management board](https://trello.com/b/oJ5zDfEP/project-401)
-
-# ER diagram
-![domain](/assets/schema.jpeg)
 
 # API
+
 [Documentation](findPartner/API-Documnetation.md)
 
-
-# License
-
-Distributed under the MIT License. See [LICENSE](https://www.mit.edu/~amini/LICENSE.md) for more information.
